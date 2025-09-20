@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tuli/Desktop/Dev/software_engineer/first-program/add_two_numbers_input_by_user'
+relocations:     []
+...
